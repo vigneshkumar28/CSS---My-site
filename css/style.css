@@ -70,3 +70,36 @@ a {
 .bottom-container {
   background-color: #aaa492;
 }
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  /* margin-top: 100px;
+  margin-bottom: 100px; */
+  text-align: left;
+  line-height: 2;
+}
+/* 
+.skills {
+  text-align: left;
+} */
+
+.skill-image-accenture {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image-wipro {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-para-accenture {
+  clear: left;
+}
+
+.skill-para-wipro {
+  clear: right;
+}
